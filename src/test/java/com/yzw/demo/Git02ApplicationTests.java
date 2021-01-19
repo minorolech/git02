@@ -9,6 +9,7 @@ class Git02ApplicationTests {
     @Test
     public void testabc(){
         System.out.println("abc.........");
+        System.out.println("分支操作.........");
     }
 
 }
