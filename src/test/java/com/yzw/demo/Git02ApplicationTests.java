@@ -10,6 +10,7 @@ class Git02ApplicationTests {
     public void testabc(){
         System.out.println("abc.........");
         System.out.println("master.........");
+        System.out.println("c2操作.........");
     }
 
 }
