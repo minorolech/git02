@@ -9,7 +9,7 @@ class Git02ApplicationTests {
     @Test
     public void testabc(){
         System.out.println("abc.........");
-        System.out.println("dev.........");
+        System.out.println("master.........");
     }
 
 }
